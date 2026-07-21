@@ -1,0 +1,6 @@
+{
+  "name": "TradingView - Market & Strategy Terminal",
+  "description": "A professional financial charting dashboard and community strategy hub, featuring interactive charts, market summaries, trending stocks, technical indicators, and real-time simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
